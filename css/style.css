@@ -1,0 +1,27 @@
+body {
+    background-color: green;
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.top-part {
+    background-color: #1976d2;
+    font-size: 50px;
+    color: #fff;
+    font-family: arial;
+    text-align: center;
+}
+
+.bottom-part {
+    background-color: #fefdfb;
+    padding: 40px;
+}
+
+.bottom-part ul {
+    margin:0px;
+    padding:0px;
+    list-style: none;
+}
